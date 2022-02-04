@@ -7,7 +7,7 @@
 ## Sumário
 
 01. Introdução às expressões regulares
-02. Expressões Regullares com Javascript
+02. Expressões Regulares com Javascript
 03. Soluções para WEB - Validações
 04. Modelos de expressões - Padrão Brasil
 
